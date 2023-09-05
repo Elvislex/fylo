@@ -115,6 +115,15 @@ h1 {
   font-weight: 400;
   color: hsl(229, 7%, 55%);
 }
+  .tail{
+    width: 0;
+    height: 0;
+    border-right: 30px solid #fff;
+    border-bottom: 40px solid transparent;
+    position: relative;
+    left: 23.4rem;
+    bottom: 5rem;
+  }
 
 @media (min-width: 1440px) {
   body {
